@@ -1,0 +1,5 @@
+description     string      fulltext
+text            string      fulltext,lowercase
+name            string      lowercase
+word            string
+id              int
